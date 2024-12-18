@@ -12,3 +12,4 @@ Example of result:
 
 #Thompson sampling: (Léon)
 Look up Beta-distribution and multi-armed bandit 
+scipy.stats.beta
