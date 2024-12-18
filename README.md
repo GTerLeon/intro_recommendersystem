@@ -2,7 +2,7 @@
 
 Implement solution thought in class & Thompson sampling
 
-#Our technique 
+#Our technique (Mai)
 
 We arbitraly look up 1 day per medicine so we cover the 10 at least once. 
 We sort and only retain for the next experiments those that produced a positive return, and so on.
@@ -10,5 +10,5 @@ We sort and only retain for the next experiments those that produced a positive 
 Example of result:
 
 
-#Thompson sampling:
+#Thompson sampling: (Léon)
 Look up Beta-distribution and multi-armed bandit 
